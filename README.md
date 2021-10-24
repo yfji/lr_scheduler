@@ -1,7 +1,6 @@
 # lr_scheduler
 A numpy implementation of several learning rate schedulers
 
-This code implements several learning rate schedulers
 
 ## Learning rate decaying strategies
 * WarmupLR </br>
